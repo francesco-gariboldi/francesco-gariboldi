@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franaz96
-- 👀 I’m interested in Python, R, Linux, psychology, statistics, data analisys.  
-- 🌱 I’m currently learning Data Analysis with Python and R, Django, Markdown, Linux, HTML, CSS.
+- 👀 I’m interested in Python, Django, R, Linux, psychology, statistics, data analisys.  
+- 🌱 I’m currently learning web development, data analysis, web scraping, text mining, linux administration.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
