@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francesco. I’m a psychologist.
-- 👀 I’m interested in Python, Django, R, Linux, psychology, statistics, data analisys, web development.  
+- 👀 I’m interested in Python, R, Linux, psychology, statistics, data analisys, web development, Django.  
 - 🌱 I’m currently learning web development, data analysis, web scraping, text mining, linux administration.
 - 💞️ I’m looking to collaborate on software for psychology.
 - 📫 How to reach me fgfrancescogariboldi1@gmail.com
