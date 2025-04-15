@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Francesco. I’m a psychologist.
-- 👀 I’m interested in Python, R, JavaScript, C, Linux, psychology, statistics, web development, data analisys, Machine Learning and Deep Learning for psychological purposes (mainly), quantitative and computational psychology.
-- 🌱 I’m currently learning data analysis, web scraping, text mining, linux system administration and full-stack web and desktop development (Django/Node.js backend).
+- 👋 Hi, I’m Francesco. I’m a psychologist with a strong passion for coding.
+- 👀 I’m interested in Python, R, JavaScript, C, Linux, psychology, statistics, test-driven web/desktop full-stack development, data analisys, Machine Learning and Deep Learning for psychological purposes (mainly), quantitative and computational psychology.
+- 🌱 I’m currently learning PsychoPy, data analysis, web scraping, text mining, linux system administration and test-driven web/desktop full-stack development (Django/Node.js backend).
 - 💞️ I’m looking to collaborate on research and software for psychology.
 - 📫 How to reach me fgfrancescogariboldi1@gmail.com
 
