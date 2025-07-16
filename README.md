@@ -3,9 +3,9 @@
 </p>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?logo=python&logoColor=python&style=for-the-badge" />
-  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-0d1117?logo=&logoColor=red&style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas&logoColor=pandas&style=for-the-badge" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?logo=numpy&logoColor=numpy&style=for-the-badge" />
+  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-0d1117?logo=&logoColor=red&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-0d1117?logo=django&logoColor=django&style=for-the-badge" />
 </p>
 <p>
