@@ -1,4 +1,4 @@
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=white&amp;style=for-the-badge">
+<img alt="Python" src="https://img.shields.io/badge/prova;logoColor=white&amp;style=for-the-badge">
 
 - 👋 Hi, I’m Francesco. I’m a psychologist with a strong passion for coding.
 - 👀 I’m interested in Python, R, JavaScript, C, Linux, psychology, test-driven web/desktop full-stack development, data analisys, Machine Learning and Deep Learning for psychological purposes (mainly), quantitative and computational psychology. I'm also trying to understand how to leverage LLMs and AI agents for psych and research purposes.
