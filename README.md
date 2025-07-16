@@ -25,24 +25,24 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?logo=docker&logoColor=docker&style=for-the-badge" />
 </p>
 
-👋 Hi, I’m Francesco. I’m a psychologist with a strong passion for coding.
-👀 I’m interested in:
-  - Psychology
-  - test-driven web/desktop full-stack development
-  - data analisys and psychometrics
-  - Machine Learning and Deep Learning for psychological purposes (mainly). I'm also trying to understand how to leverage LLMs and AI agents for psych and research purposes.
-  - quantitative and computational psychology.
+- 👋 Hi, I’m Francesco. I’m a psychologist with a strong passion for coding.
+- 👀 I’m interested in:
+    - Psychology
+    - test-driven web/desktop full-stack development
+    - data analisys and psychometrics
+    - Machine Learning and Deep Learning for psychological purposes (mainly). I'm also trying to understand how to leverage LLMs and AI agents for psych and research purposes.
+    - quantitative and computational psychology.
 
-🌱 I’m currently learning:
-  - NetworkX and related networks theory and packages
-  - data analysis and Psychometrics
-  - web scraping
-  - NLP
-  - linux system administration
-  - test-driven web/desktop full-stack development (Django/Node.js backend)
+- 🌱 I’m currently learning:
+    - NetworkX and related networks theory and packages
+    - data analysis and Psychometrics
+    - web scraping
+    - NLP
+    - linux system administration
+    - test-driven web/desktop full-stack development (Django/Node.js backend)
+- 💞️ I’m looking to collaborate on research and software for psychology.
 
-💞️ I’m looking to collaborate on research and software for psychology.
-📫 How to reach me fgfrancescogariboldi1@gmail.com
+- 📫 How to reach me fgfrancescogariboldi1@gmail.com
 
 <!---
 Franaz96/Franaz96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
