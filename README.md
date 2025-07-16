@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning:
     - NetworkX and related networks theory and packages
-    - data analysis and Psychometrics
+    - data analysis and psychometrics
     - web scraping
     - NLP
     - linux system administration
