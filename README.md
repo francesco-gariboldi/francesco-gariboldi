@@ -1,6 +1,6 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?logo=python&logoColor=red&style=for-the-badge" />
-  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-0d1117?logo=https://networkx.org/_static/networkx_logo.svg&logoColor=red&style=for-the-badge" />
+  <img alt="NetworkX" src="https://img.shields.io/badge/-0d1117?logo=https://networkx.org/_static/networkx_logo.svg&logoColor=red&style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas&logoColor=red&style=for-the-badge" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?logo=numpy&logoColor=red&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?logo=python&logoColor=red&style=for-the-badge" />
