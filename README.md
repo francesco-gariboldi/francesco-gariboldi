@@ -15,6 +15,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript&logoColor=javascript&style=for-the-badge" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?logo=html&logoColor=html&style=for-the-badge" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?logo=css&logoColor=css&style=for-the-badge" />
+    <img alt="Latex" src="https://img.shields.io/badge/Latex-0d1117?logo=latex&logoColor=latex&style=for-the-badge" />
 </p>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?logo=docker&logoColor=docker&style=for-the-badge" />
