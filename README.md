@@ -40,7 +40,7 @@
     - NLP
     - linux system administration
     - test-driven web/desktop full-stack development (Django/Node.js backend)
-- 💞️ I’m looking to collaborate on research and software for psychology.
+- 💞️ I’m looking to collaborate on research and software for psychology. I'm currently working as data scientist (research assistant) at CogNosco Lab (University of Trento) through a research grant.
 
 - 📫 How to reach me fgfrancescogariboldi1@gmail.com
 
