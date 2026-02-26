@@ -28,18 +28,18 @@
 - 👋 Hi, I’m Francesco. I’m a psychologist with a strong passion for coding.
 - 👀 I’m interested in:
     - Psychology
-    - test-driven web/desktop full-stack development
-    - data analisys and psychometrics
+    - Test-driven web/desktop full-stack development
+    - Data analisys and psychometrics
     - Machine Learning and Deep Learning for psychological purposes (mainly). I'm also trying to understand how to leverage LLMs and AI agents for psych and research purposes.
-    - quantitative and computational psychology.
+    - Quantitative and computational psychology.
 
 - 🌱 I’m currently learning:
     - NetworkX and related networks theory and packages
-    - data analysis and psychometrics
-    - web scraping
+    - Data analysis and psychometrics
+    - Web scraping
     - NLP
-    - linux system administration
-    - test-driven web/desktop full-stack development (Django/Node.js backend)
+    - Linux system administration
+    - Test-driven web/desktop full-stack development (Django/Node.js backend)
 - 💞️ I’m looking to collaborate on research and software for psychology. I'm currently working as data scientist (research assistant) at CogNosco Lab (University of Trento) through a research grant.
 
 - 📫 How to reach me fgfrancescogariboldi1@gmail.com
